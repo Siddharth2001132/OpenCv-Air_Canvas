@@ -6,14 +6,8 @@ This is an OpenCV project. Creating virtual screen annotaion or simply Air Canva
 
 ## Steps to follow
 <ol>
+<li>pip install requirements</li>
 <li>pip install opencv-python</li>
 <li>pip install numpy</li>
-<li>python main.py</li>
-</ol>
-
-## OR
-
-<ol>
-<li>pip install requirements</li>
 <li>python main.py</li>
 </ol>
